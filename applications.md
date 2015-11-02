@@ -11,7 +11,7 @@ Performs federated queries to show data into a map. Agents can publish offers in
 Healthy Recipes
 ---
 
-A recipes application linked with product instances of the map. The application is meant to give visibility to the farmers and to promote healthy habits. Given some ingredients, the app proposes healthy recipes. The user can search for missing ingredients in their local environment. If the application contributes to a buy transaction the recipe owners can be rewarded. The application is integrated with nutritional information and ecological footprint.
+A recipes application linked with product instances of the map. The application is meant to give visibility to the farmers and to promote healthy habits. Given some ingredients, the app proposes healthy recipes. The user can search for missing ingredients in their local environment. If the application contributes to a buy transaction the recipe owners can be rewarded. The application is integrated with nutritional information and ecological footprint
 
 My Data hub
 ---
@@ -43,4 +43,4 @@ A tool that given a code (URL) can show all known public information associated 
 
 Slack for organic trading
 ---
-A simple chat application that knows how to translate a copypasted URL into a visual gadgets (i.e giving away apples offer). Users can trade in their neighborhood's chat room.
+A simple chat application that knows how to translate a URL () into visual gadgets. Users can trade in their neighborhood's chat room.
