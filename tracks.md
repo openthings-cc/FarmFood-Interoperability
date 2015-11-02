@@ -6,7 +6,7 @@ Ideally, the points explained below involve continuous delivery thus the work ca
 Track-1 - Infrastructure and Applications.
 ---
 
-* To build open-source applications to bootstrap the practical use of the outputs. This includes a semantic-enabled healthy recipes application and a platform that brings together different datasets into a single application. This can help an agent to discover public offers on their local area, such as products, delivery, news, recipes etc.
+* To build open-source [applications](./applications.md) to bootstrap the practical use of the outputs. 
 * To set up and manage databases and services. 
 
 Track-2 - Integration and Vocabulary mapping.
