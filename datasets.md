@@ -1,9 +1,7 @@
-Datasets
+[RDF Datasets](./data/datasets.ttl)
 ---
 
 Definition by the Open Data Handbook: ‘data that can be freely used, reused and redistributed by anyone – subject only, at most, to the requirement to attribute and sharealike’.
-
-[Links TTL](./data/datasets.ttl)
 
 AGROVOC/GACS
 ---
