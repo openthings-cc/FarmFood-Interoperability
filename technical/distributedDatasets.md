@@ -1,11 +1,11 @@
-Datasets
+Distributed Datasets
 ---
 
 Basically, we want to keep a clear separation between the data and the applications . The question is: How we accomplish this?
 
 We want simple solutions, and we think that people can adopt something they already now, such as the filesystem metaphor. Each user might have a virtual file system that shows all their data about their own products in folders. They define data about their crops and prices in spreadsheet-like apps. 
  
-Distributed
+Your Data
 ---
  
 We want to allow variety, not another centralized repo. This means each node must be in control of their own data so no central control is required or enforced. Each node have the choice to provide or not the data. They have the freedom to take their data away if they want. 
