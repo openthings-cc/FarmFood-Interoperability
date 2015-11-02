@@ -1,0 +1,14 @@
+[] a oc:Community ;
+    rel:url <http://foodnotbombs.net> .
+
+[] a oc:Community ;
+    rel:url <http://foodisfreeproject.org> .
+
+[] a oc:Community ;
+    rel:url <http://www.fsenetwork.org> .
+
+[] a oc:Community ;
+    rel:url <http://sharefoodforest.org> .
+
+[] a oc:Community ;
+    rel:url <http://de.wikipedia.org/wiki/Volxküche> .

@@ -1,0 +1,11 @@
+[] a oc:Vocabulary ;
+rel:url <http://aims.fao.org/access-agrovoc> ;
+rel:title "Agrovoc" .
+
+[] a oc:Vocabulary ;
+rel:url <http://www.heppnetz.de/projects/goodrelations> ;
+rel:title "GoodRelations" .
+
+[] a oc:Vocabulary ;
+rel:url <http://purl.org/foodontology> ;
+rel:title "Food Ontology" .
