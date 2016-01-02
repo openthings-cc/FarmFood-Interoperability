@@ -1,0 +1,17 @@
+[] a oc:FoodService ;
+    rel:url <https://ernte-teilen.org> .
+
+[] a oc:FoodService ;
+    rel:url <http://mundraub.org> .
+
+[] a oc:FoodService ;
+    rel:url <http://trashwiki.org> .
+
+[] a oc:FoodService ;
+    rel:url <https://foodsharing.de> .
+
+[] a oc:FoodService ;
+    rel:url <https://thefoodassembly.com> .
+
+[] a oc:FoodService ;
+    rel:url <https://www.mealsharing.com> .

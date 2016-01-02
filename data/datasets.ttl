@@ -1,0 +1,40 @@
+[] a oc:GeneralDataset ;
+    rel:title "DBPedia" ;
+    rel:url <https://www.wikidata.org> .
+
+[] a oc:GeneralDataset ;
+    rel:title "Open Street Maps (OSM)" ;
+    rel:url <https://www.openstreetmap.org/> .
+
+[] a oc:EuropeanDataset ;
+    rel:url <http://ec.europa.eu/dgs/health_food-safety/information_systems/index_en.htm> ;
+    rel:title "DG Health and Food Safety Data" .
+
+[] a oc:EuropeanDataset ;
+    rel:url <https://www.gov.uk/government/statistical-data-sets/family-food-datasets> ;
+    rel:comments "Uses an interesting taxonomy of food, from the point of view of a consumer, comes from UK" ;
+    rel:title "UK statistical datasets" .
+
+[] a oc:OpenDataset ;
+    rel:title "Product recalls (food)" ;
+    rel:description "Safety related notifications, to take out certain food from the market" ;
+    rel:relevance "medium" ;
+    rel:url <http://data.gov.be/dataset/product-recalls-food> .
+
+[] a oc:OpenDataset ;
+    rel:title "Organic Farming" ;
+    rel:description "EU Global statistics about organic farming" ;
+    rel:url <http://ec.europa.eu/eurostat/web/organic-farming> .
+
+[] a oc:OpenDataset ;
+    rel:description "Contains data about the composition of products" ;
+    rel:relevance "high" ;
+    rel:url <http://openfoodfacts.org> .
+
+[] a oc:OpenDataset ;
+    rel:description "Brussels Markets" ;
+    rel:url <http://opendata.brussels.be/explore/dataset/markets/?tab=metas> .
+
+[] a oc:OpenDataset ;
+    rel:description "AgriProfiles" ;
+    rel:url <http://www.agriprofiles.net/> .

@@ -1,0 +1,33 @@
+[] a oc:GitHubRepo ;
+    rel:title "Open Recipes" ;
+    rel:url <https://github.com/fictivekin/openrecipes> .
+
+    [] a oc:GitHubRepo,
+            oc:OpenSourceSoftware ;
+        rel:url <https://github.com/Growstuff/growstuff> ;
+        rel:webPage <http://growstuff.org> ;
+        rel:description "Growstuff is a community of food gardeners. We're building an open source platform to help you learn about growing food, track what you plant and harvest, and swap seeds and produce with other gardeners near you."@En .
+
+[] a oc:GitHubRepo,
+        oc:OpenSourceSoftware ;
+    rel:url <https://github.com/aaronpk/Teacup> .
+
+[] a oc:GitHubRepo,
+        oc:OpenSourceSoftware ;
+    rel:url <https://github.com/openthings-cc> .
+
+[] a oc:GitHubRepo,
+        oc:OpenSourceSoftware ;
+    rel:url <https://github.com/openfoodfoundation/openfoodnetwork> .
+
+[] a oc:GitHubRepo,
+        oc:OpenSourceSoftware ;
+    rel:url <https://github.com/foodcoops/foodsoft> .
+
+[] a oc:GitHubRepo,
+        oc:OpenSourceSoftware ;
+    rel:url <https://github.com/teikei/teikei> .
+
+ [] a oc:Api ;
+    rel:description "Provides a supply chain visibility tool" ;
+        rel:url <http://www.sourcemap.com> .
