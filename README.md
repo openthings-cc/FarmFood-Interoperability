@@ -1,3 +1,7 @@
+---
+title: Linked Data for local farming interoperability
+---
+
 Linked Data for local farming interoperability
 ---
 
